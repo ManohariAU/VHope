@@ -1,0 +1,54 @@
+.Register{
+        width: 500px;  
+        overflow: hidden;  
+        margin: auto; 
+        margin: 20 0 0 450px;  
+        padding: 80px; 
+        border: 2px;
+        background: white; 
+}
+.top{
+  background: url("bg.webp");
+  background-attachment: fixed;
+  background-size:cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 65px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+
+}
+#Button{
+    margin-left: 170px;
+    justify-content: center; 
+    align-items: center;
+    
+}
+h5 {
+    font-family: sans-serif;
+    color: 000000;
+    text-align: center;
+    max-width: 600px;
+    position: relative;
+  }
+  h5:before {
+    content: "";
+    display: block;
+    width: 240px;
+    height: 2px;
+    background: black;
+    left: 0;
+    top: 50%;
+    position: absolute;
+  }
+  h5:after {
+    content: "";
+    display: block;
+    width: 240px;
+    height: 2px;
+    background:black;
+    right: 0;
+    top: 50%;
+    position: absolute;
+  }
+ 

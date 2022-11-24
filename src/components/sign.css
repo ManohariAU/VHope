@@ -1,0 +1,25 @@
+.sign{
+    width: 500px;
+    overflow: hidden;  
+    margin: auto; 
+    margin: 20 0 0 450px;  
+    padding: 80px; 
+    border: 2px;
+    background: white;
+}
+.top{
+    background: url("bg.webp");
+  background-attachment: fixed;
+  background-size:cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 65px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+#Button{
+    margin-left: 170px;
+    justify-content: center; 
+    align-items: center;
+    
+}

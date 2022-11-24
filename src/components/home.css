@@ -1,0 +1,22 @@
+
+.Home{
+    background: url("children-wallpaper-preview.jpg");
+    background-attachment: fixed;
+    background-size:cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+.quo{
+    padding: 100px;
+    margin-left: 80px;
+}
+.Vision{
+    padding: 20px;
+    margin-left: 80px;
+    width: 500px;  
+    overflow: hidden;  
+    margin: 20 0 0 450px;  
+    border: 2px solid black;
+    border-radius: 15px ; 
+}

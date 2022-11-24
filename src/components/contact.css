@@ -1,0 +1,16 @@
+.contact{
+    height: 550px;
+    background: url("bg.webp");
+        background-attachment: fixed;
+        background-size:cover; 
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-top: 65px;
+        padding-top: 25px;
+        padding-bottom: 35px;
+}
+#img{
+    margin-top: 80px;
+    padding: 100px;
+    padding-left: 600px;
+}
